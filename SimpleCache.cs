@@ -1,4 +1,4 @@
-namespace InterviewTest
+namespace StatelessApi
 {
     public interface ILogger
     {
